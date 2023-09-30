@@ -1,3 +1,7 @@
 {
-    "deno.enable": true
+    "deno.enable": true,
+    "eslint.enable": true,
+    "prettier.enable": true,
+    "editor.defaultFormatter": "EditorConfig.EditorConfig",
+    "editor.autoIndent": "full"
 }
