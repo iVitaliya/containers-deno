@@ -1,5 +1,5 @@
 /** Function signature for checking equality. */
-export interface EqualFunction<T> {
+export interface EqualsFunction<T> {
     (a: T, b: T): boolean;
 }
 
